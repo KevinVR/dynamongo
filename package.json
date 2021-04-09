@@ -1,6 +1,6 @@
 {
 	"name": "dynamongo",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "A simple library for easy querying of DynamoDB using MongoDB-style queries",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
