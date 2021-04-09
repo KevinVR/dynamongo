@@ -5,6 +5,9 @@
 [![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+![npm version](https://badge.fury.io/js/dynamongo.svg)
+![npm dependencies](https://status.david-dm.org/gh/kevinvr/dynamongo.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/82afbc1cbbfdc6094302/maintainability)](https://codeclimate.com/github/KevinVR/dynamongo/maintainability)
+
 
 <br />
 <p align="center">
