@@ -18,7 +18,7 @@ class Dynamongo {
 	/* Optional Singleton Usage */
 	private static _Instance = null;
 
-	public static getInstance() {
+	public static GetInstance() {
 		if (Dynamongo._Instance == null) {
 			// @ts-ignore
 			Dynamongo._Instance = new Dynamongo(...arguments);
