@@ -1,0 +1,18 @@
+{
+  "name": "dynamongo",
+  "version": "0.1.0",
+  "description": "A simple library for easy querying of Dynamodb using Mongodb-style queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamo",
+    "dynamodb",
+    "mongo",
+    "mongodb",
+    "library"
+  ],
+  "author": "Kevin Van Ryckegem",
+  "license": "Apache-2.0"
+}
